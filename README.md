@@ -29,3 +29,4 @@ Proyecto listo para producción en hosting con soporte PHP.
 ## Autor
 
 Vivencia Baires
+Repositorio oficial del sitio web de SynFive.
