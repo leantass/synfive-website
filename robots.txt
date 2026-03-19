@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Bloqueos técnicos
+Disallow: /config/
+Disallow: /vendor/
+Disallow: /cache/
+Disallow: /logs/
+Disallow: /includes/
+Disallow: /tmp/
+Disallow: /test/
+
+# Sitemap
+Sitemap: https://synfive.com/sitemap.xml
